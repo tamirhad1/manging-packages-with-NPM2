@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "fcc-learn-node-with-express",
 	"version": "0.1.0",
 	"dependencies": {
@@ -6,9 +7,31 @@
 		"body-parser": "^1.15.2",
 		"cookie-parser": "^1.4.3",
 		"fcc-express-bground": "https://github.com/freeCodeCamp/fcc-express-bground-pkg.git"
+=======
+	"author": "Tanir Hadad2",
+	"description": "A project that does something awesome",
+	"keywords": [
+		"descriptive",
+		"related",
+		"words",
+		"freecodecamp"
+	],
+	"license": "MIT",
+	"version": "1.2.0",
+	"name": "fcc-learn-npm-package-json",
+	"dependencies": {
+		"express": "^4.14.0"
+>>>>>>> bf4b9bd6fe64558672b144f11ed36812726d8613
 	},
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
+<<<<<<< HEAD
+=======
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+>>>>>>> bf4b9bd6fe64558672b144f11ed36812726d8613
 	}
 }
